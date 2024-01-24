@@ -9,7 +9,7 @@
 <div>
 <a href="https://github.com/olsalan">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olsalan&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?olsalan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   <br>
 <a href="https://linkedin.com/in/alan-sousa-oliveira-4a09a6205" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
