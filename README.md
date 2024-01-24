@@ -17,7 +17,7 @@
   
   </br>
   </br>
-  <h2>Languages I am studying </h2>
+  <h2>Languages I am studying --></h2>
 <div style="display: inline_block">
                        
 </div>
