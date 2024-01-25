@@ -1,6 +1,3 @@
-<head>
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-</head>
 ### Hi there👋 welcome to my GitHub portfolio. Would you like to know more about me?
 
 - 👨🏼‍🎓 • Graduated in Computer Technician.
@@ -38,4 +35,4 @@
   
  </div>
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
