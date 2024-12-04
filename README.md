@@ -3,7 +3,7 @@
 - 👨🏼‍🎓 Graduated in Computer Technician.
 - 📚 Currently pursuing a degree in Analysis and Systems Development Technology.
 - 💻 Studying to become a developer.
-- 💡 Currently, I'm working on a web project, where I'm using Python with the Django framework.
+- 💡 Currently creating a horror game.
 
 </br>
 
