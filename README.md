@@ -1,9 +1,9 @@
-### Olá! 👋 Bem-vindo ao meu portfólio no GitHub. Gostaria de saber mais sobre mim?
+### Hi there! 👋 Welcome to my GitHub portfolio. Would you like to know more about me?
 
-- 👨🏼‍🎓 Formado como Técnico em Informática.
-- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Estudando para me tornar um desenvolvedor.
-- 💡 Atualmente criando um jogo de terror.
+- 👨🏼‍🎓 Graduated as a Computer Technician.
+- 📚 Currently studying Analysis and Systems Development.
+- 💻 Aspiring to become a developer.
+- 💡 Currently creating a horror game.
 
 ##
 
