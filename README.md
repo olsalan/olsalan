@@ -1,21 +1,4 @@
-### Hi there! 👋 Welcome to my GitHub portfolio. Would you like to know more about me?
-
-- 👨🏼‍🎓 Graduated as a Computer Technician.
-- 📚 Currently studying Analysis and Systems Development.
-- 💻 Aspiring to become a developer.
-- 💡 Currently creating a horror game.
-
-##
-
-**Linguagens e Ferramentas:**  
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-##
+### Hi there! 👋 Welcome to my GitHub portfolio.
 
 **Entre em contato:**  
 
